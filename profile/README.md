@@ -37,3 +37,11 @@ The LibreTube project and its contents are not affiliated with, funded, authoriz
 Any trademark, service mark, trade name, or other intellectual property rights used are owned by the respective owners.
 
 LibreTube is an open source software built for learning and research purposes.
+
+## Donate
+
+Donations can be made at:
+* <https://github.com/sponsors/Bnyro>
+* <https://liberapay.com/Bnyro>
+
+Contributions in any form are welcome!
