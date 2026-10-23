@@ -33,7 +33,7 @@
 
 The LibreTube project aims to provide a private, anonymous experience for using web-based media services. Therefore, the app does not collect any data without your consent.
 
-The LibreTube project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, or any of its affiliates or subsidaries.<br>
+The LibreTube project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, or any of its affiliates or subsidiaries.<br>
 Any trademark, service mark, trade name, or other intellectual property rights used are owned by the respective owners.
 
 LibreTube is an open source software built for learning and research purposes.
